@@ -1,0 +1,13 @@
+[Unit]
+Description=Flask Python App
+After=network.target
+
+[Service]
+Type=simple
+User=integrador
+WorkingDirectory=/projects 
+ExecStart=/usr/bin/python3 /projects/p1_gera_cod.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
