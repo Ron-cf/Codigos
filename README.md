@@ -8,3 +8,7 @@ Em vários casos, observou-se que é necessário o deslocamento do interessado a
 O objetivo foi  permitir agilidade na obtenção dos dados corretos em função do tipo de dívida ou controvérsia judicial.
 
 O arquivo 2025-05-10_15h10m04s.json é um exemplo do arquivo do tipo json gerado com o processamento dos dados iniciais, por outro lado o arquivo resultado.txt é formado para possibilitar o retorno ao front-end, viabilizando o uso dos dados de resultado.
+
+O arquivo p_0.service é o arquivo que permite que a aplicação python rode como um serviço no servidor de aplicação. É utilizado como parâmetro para o comando no systemctl no linux.
+
+
