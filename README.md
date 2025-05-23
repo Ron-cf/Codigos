@@ -13,7 +13,7 @@ Comando para ativar: systemctl start p_0.service
 Comando para verificar: systemctl status p_0.service
 Comando para parar o serviço (Utilizado quando foi feita alguma modificação no arquivo .py): systemctl stop p_0.service
 
-Os arquivos 2025-05-10_15h10m04s.json e 2025-05-23_13h01m52s.json são exemplos do arquivo do tipo json gerado com o processamento dos dados iniciais, por outro lado o arquivo resultado.txt é formado para possibilitar o retorno ao front-end, viabilizando o uso dos dados de resultado.
+Os arquivos 2025-05-10_15h10m04s.json e 2025-05-23_13h01m52s.json são exemplos do arquivo do tipo json gerado com o processamento dos dados iniciais.
 
 O arquivo resultado.txt também é gerado pelo programa python e possibilita a visualização dos resultados no front-end.
 
