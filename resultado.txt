@@ -1,0 +1,7 @@
+Depositante: Benedito Alves
+CPF do depositante: 39297307310
+Beneficiário: UniFederal Previdência
+CNPJ do beneficiário: 06955849000103
+Código da Operação: 635
+Código da Receita: 2226
+Descrição Completa: Contribuição Segurado
